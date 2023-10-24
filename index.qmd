@@ -3,11 +3,11 @@ title: "Andrea Veciana"
 image: av.jpg
 about:
   id: hero-heading
-  template: trestles
+  template: jolla
   image-width: 10em
   image-shape: round
   links:
-    - icon: info
+    - icon: search
       text: Orcid
       href: https://orcid.org/0000-0003-0060-0949
     - icon: github
@@ -25,15 +25,10 @@ Andrea Veciana, a Spanish national born in Dominican Republic, spent her formati
 
 ## Education
 
-University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015
+ETH Zurich, Switzerland \| PhD in Muli Scale Robotics Lab \| Sept 2019 - current
 
-Macalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011
+ETH Zurich, Switzerland \| Master in Micro and Nanosystems \| Sept 2007 - June 2011
+
+University of Twente, Netherlands \| Bachelor of Science in Advanced Technologies \| Sept 2011 - June 2015
 
 ## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
-This content appears below the formatted about page content.
-
