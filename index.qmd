@@ -1,11 +1,39 @@
 ---
-title: "website-template"
+title: "Andrea Veciana"
+image: av.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: info
+      text: Orcid
+      href: https://orcid.org/0000-0003-0060-0949
+    - icon: github
+      text: Github
+      href: https://github.com/vandrea01
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/andreaveciana
+format:
+    html:
+      toc: false
 ---
 
-This is a Quarto website.
+Andrea Veciana, a Spanish national born in Dominican Republic, spent her formative years in Salvador, Brazil, where she graduated from an american high school. Her academic journey led her to Enschede, the Netherlands, where she pursued a bachelor's degree in Advanced Technology at the University of Twente with a focus on nanotechnology. Andrea's passion for environmental solutions and nanotechnology drove her to complete a master's degree in Micro- and Nanosystems at ETH Zurich, Switzerland. She is currently a Ph.D. student at the MSRL, exploring the integration of nanorobotics and piezoelectric materials for water remediation. Beyond her research, Andrea is an ocean enthusiast and an avid swimmer.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015
+
+Macalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Sept 2012 - April 2018
+
+This content appears below the formatted about page content.
+
