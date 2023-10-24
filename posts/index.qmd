@@ -1,0 +1,12 @@
+---
+title: Research Blog
+subtitle: Here I share information about my project
+listing: 
+  contents: "*/index.qmd" #look into all subfolders
+  type: default
+  fields: [image, date, title, author, description, reading-time] #what to see in the listing
+  sort-ui: false
+  filter-ui: false
+page-layout: full #use full page
+search: false #removes search from page
+---

@@ -1,0 +1,14 @@
+---
+title: Get started with Blogging
+subtitle: A template for a Blog.
+description: |
+  This a tempalte from which the YAML metadata can be copied for a new blog post.
+author: "Andrea Veciana"
+date: today
+draft: false #change to false once draft is done
+bibliography: "../../vandrea01.bib" #.. used to move two folders up
+---
+
+## Heading
+
+Cite this paper [@veciana2023tailored].

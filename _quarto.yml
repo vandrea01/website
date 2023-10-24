@@ -4,14 +4,16 @@ project:
 
 website:
   title: "Andrea Veciana"
+  site-url: "https://vandrea01.github.io/website/"
   navbar:
     left:
       - href: index.qmd
         text: Home
-
+      - href: posts/
+        text: Blog
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 
